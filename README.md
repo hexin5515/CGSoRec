@@ -1,7 +1,7 @@
 # CGSoRec
 
 # Condition-Guided Social Recommendation Model
-This is the pytorch implementation of our paper "Condition-Guided Social Recommendation for Mitigating Popularity Bias".
+This is the pytorch implementation of our paper "Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for  Mitigating Popularity Bias".
 
 ## Environment
 - python 3.8.10
