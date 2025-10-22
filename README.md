@@ -3,6 +3,10 @@
 # Condition-Guided Social Recommendation Model
 This is the pytorch implementation of our paper "Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for  Mitigating Popularity Bias".
 
+<div align="center">
+  <img src="https://github.com/hexin5515/AusRec/blob/main/Image/AusRec.jpg" width="1600px"/>
+</div>
+
 ## Environment
 - python 3.8.10
 - pytorch 1.12.0
