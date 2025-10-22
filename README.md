@@ -4,7 +4,7 @@
 This is the pytorch implementation of our paper "Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for  Mitigating Popularity Bias".
 
 <div align="center">
-  <img src="https://github.com/hexin5515/AusRec/blob/main/Image/AusRec.jpg" width="1600px"/>
+  <img src="https://github.com/hexin5515/CGSoRec/blob/master/Image/CGSoRec.jpg" width="1600px"/>
 </div>
 
 ## Environment
